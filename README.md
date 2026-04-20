@@ -14,7 +14,7 @@ http://quotes.toscrape.com/
 
 -> Tools & Technologies
 
-o ParseHub (No-code web scraping tool)
+o ParseHub (No-code web scraping tool)                                                                                                                              
 o CSV (Data storage format)
 
 
@@ -23,8 +23,8 @@ o CSV (Data storage format)
 
 The following data fields were collected:
 
-o Quote (Text)
-o Author (Name of the author)
+o Quote (Text)                                                                                                                                                      
+o Author (Name of the author)                                                                                                                                       
 o Tags (Keywords related to quotes)
 
 
@@ -43,25 +43,25 @@ o Tags (Keywords related to quotes)
 
 -> Project Files
 
-o `quotes.csv` -> Scraped dataset  
-o `README.md` -> Project documentation  
-o `screenshots` -> ParseHub workflow and output proof  
+o `quotes.csv` -> Scraped dataset                                                                                                                                   
+o `README.md` -> Project documentation                                                                                                                              
+o `screenshots` -> ParseHub workflow and output proof                                                                                                               
 
 
 
 -> Dataset Details
 
-o Total Records: 50+  
-o Format: CSV  
-o Structure: Tabular data with labelled columns  
+o Total Records: 50+                                                                                                                                                
+o Format: CSV                                                                                                                                                      
+o Structure: Tabular data with labelled columns                                                                                                                     
 
 
 
 -> Key Insights
 
-o Some authors appear multiple times, indicating popular contributors  
-o Tags like "life", "love", and "inspirational" are frequently used  
-o Data can be used for text analysis or sentiment analysis  
+o Some authors appear multiple times, indicating popular contributors                                                                                               
+o Tags like "life", "love", and "inspirational" are frequently used                                                                                                 
+o Data can be used for text analysis or sentiment analysis                                                                                                           
 
 
 
@@ -73,9 +73,9 @@ Web scraping using ParseHub allows efficient data extraction without coding. Thi
 
 -> Future Enhancements
 
-o Perform Exploratory Data Analysis (EDA)  
-o Visualise the most common authors and tags  
-o Apply sentiment analysis on quotes  
+o Perform Exploratory Data Analysis (EDA)                                                                                                                           
+o Visualise the most common authors and tags                                                                                                                        
+o Apply sentiment analysis on quotes                                                                                                                                
 
 
 
