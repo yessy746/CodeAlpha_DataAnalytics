@@ -1,4 +1,4 @@
-# 📊 Task 1: Web Scraping using ParseHub
+Task 1: Web Scraping using ParseHub
 
 -> Project Overview
 This project demonstrates web scraping using a no-code tool (ParseHub) to extract data from a public website. The goal was to collect and structure real-world data for further analysis.
@@ -45,7 +45,7 @@ o `screenshots` -> ParseHub workflow and output proof
 -> Dataset Details
 o Total Records: 50+  
 o Format: CSV  
-o Structure: Tabular data with labeled columns  
+o Structure: Tabular data with labelled columns  
 
 
 
@@ -57,13 +57,13 @@ o Data can be used for text analysis or sentiment analysis
 
 
 -> Conclusion
-Web scraping using ParseHub allows efficient data extraction without coding. This project shows how structured datasets can be created from unstructured web data for analytics purposes.
+Web scraping using ParseHub allows efficient data extraction without coding. This project demonstrates how structured datasets can be created from unstructured web data for analytics.
 
 
 
 -> Future Enhancements
 o Perform Exploratory Data Analysis (EDA)  
-o Visualize most common authors and tags  
+o Visualise the most common authors and tags  
 o Apply sentiment analysis on quotes  
 
 
